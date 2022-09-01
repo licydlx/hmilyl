@@ -1,0 +1,38 @@
+.countryLay {
+   
+}
+
+.countryLay ul
+{
+    margin:0 20px 0 20px;
+    padding: 0;
+    list-style-type:none;
+}
+
+.countryLay ul li
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.countryLay ul li p
+{
+    margin:0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    width: 100%;
+    border-bottom: 1px solid #e9e1e1;
+}
+
+.tip {
+    text-align: center;
+    color: #b6b0b0;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.countryDec {
+ 
+}
+

@@ -1,0 +1,21 @@
+.inputLay {
+   margin-bottom: 15px;
+}
+
+.inputDec {
+    border:0;
+    outline:0;
+
+    width: calc(100% - 82px);
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 6px;
+    border:solid 1px rgb(177, 210, 212);
+    
+    font-size: 20px;
+    padding: 0px 20px;
+}
+
+.inputDec:focus{
+    outline: 1px solid #AFECAB; 
+ } 
